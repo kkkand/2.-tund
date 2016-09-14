@@ -12,3 +12,39 @@
 	
 
 ?>
+
+
+<br>
+
+<?php
+
+	$age = 18;
+	
+	if ($age < 18) {		
+		
+		//kui vastus on toene (true)
+		echo "alaealine";
+		
+	} else {
+		
+		// kui vastus on vaar (true)
+		echo "täisealine";
+
+	
+	
+?>	} 
+
+
+
+<br>
+ 
+<?php
+
+
+
+
+
+
+
+
+?>
